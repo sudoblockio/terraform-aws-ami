@@ -7,7 +7,7 @@ output "ubuntu_1804_ami_id" {
 }
 
 output "ubuntu_2004_ami_id" {
-  value = data.aws_ami.ubuntu_1804.id
+  value = data.aws_ami.ubuntu_2004.id
 }
 
 output "centos_7_ami_id" {
