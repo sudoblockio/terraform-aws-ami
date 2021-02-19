@@ -1,7 +1,5 @@
 # terraform-aws-ami
 
-## Features
-
 This module retrieves AMI information from AWS. 
 
 ## Terraform Versions
